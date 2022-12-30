@@ -1,4 +1,4 @@
-I worked on this project just to have fun by applying my skills.
+I worked on this project just to help people pick a movie to watch.
 In this project, I have used the public APIs (https://api.themoviedb.org), to create a web application that can help movies likers to check:
 - check last uploaded Movies and TV series.
 - check movies and TV series ratings.
