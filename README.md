@@ -1,5 +1,5 @@
 I worked on this project just to help people pick a movie to watch.
-In this project, I have used the public APIs (https://api.themoviedb.org), to create a web application that can help movies likers to check:
+In this project, I have used the public APIs (https://api.themoviedb.org), to create a web application that can help movies likers to:
 - check last uploaded Movies and TV series.
 - check movies and TV series ratings.
 - search for movies and TV series by category or name.
