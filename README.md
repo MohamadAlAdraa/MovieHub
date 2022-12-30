@@ -6,6 +6,9 @@ In this project, I have used the public APIs (https://api.themoviedb.org), to cr
 - watch trailers for the movies.
 - check all different actors with abstract about each one.
 
+Here is a demo deployed on firebase:
+- https://movie-hub-b8fa1.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
