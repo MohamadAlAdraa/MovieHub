@@ -1,0 +1,64 @@
+.MovieCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+    padding: 5px;
+    margin: 7px 0;
+    background-color: #282c34;
+    border-radius: 10px;
+    position: relative;
+}
+
+.MovieCardInside {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.MovieCard:hover {
+    background-color: white;
+    color: black;
+}
+
+.Badge {
+    position: absolute;
+    top: -7px;
+    right: 0;
+}
+
+.Poster {
+    width: 100%;
+}
+
+.Poster img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.Title {
+    padding: 8px 0 12px 0;
+    font-size: 17px;
+    text-align: center;
+}
+
+.MovieCardFooter {
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 5px;
+}
+
+@media (max-width: 500px) {
+    .MovieCard {
+        width: 45%;
+    }
+    .Title,
+    .MovieCardFooter {
+        font-size: 3vw;
+    }
+}

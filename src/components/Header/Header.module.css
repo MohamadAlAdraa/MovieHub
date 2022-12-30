@@ -1,0 +1,30 @@
+.Header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    font-size: 3vw;
+    text-transform: uppercase;
+    color: white;
+    z-index: 100;
+    box-shadow: 0 1px 5px black;
+    background-color: #39445a;
+    padding: 10px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    cursor: pointer;
+}
+
+@media (max-width:1200px) {
+    .Header {
+        font-size: 4vw;
+    }
+}
+
+@media (max-width:700px) {
+    .Header {
+        font-size: 5vw;
+    }
+}
