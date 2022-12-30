@@ -1,10 +1,10 @@
 I worked on this project just to help people pick a movie to watch.
 In this project, I have used the public APIs (https://api.themoviedb.org), to create a web application that can help movies likers to:
-- check last uploaded Movies and TV series.
-- check movies and TV series ratings.
+- check trending Movies and TV series.
+- see movies and TV series ratings.
 - search for movies and TV series by category or name.
-- watch trailers for the movies.
-- check all different actors with abstract about each one.
+- watch trailers.
+- see actors act in the movie.
 
 Here is a demo deployed on firebase:
 - https://movie-hub-b8fa1.web.app/
